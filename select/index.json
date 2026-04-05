@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "布袋尊",
+  "base_artist": "ROF-MAO",
+  "createdAt": "2026-04-05T10:28:28.041206Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "布袋尊",
+      "artist": "ROF-MAO",
+      "has_synced": false,
+      "path": "select/pl_01_布袋尊_ROF-MAO.txt"
+    }
+  ]
+}
